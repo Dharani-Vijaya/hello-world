@@ -37,10 +37,4 @@ HelloDHARABI added build triggers:)
 
    <h1> Thankyou, Happy Learning </h1>
 <h1> Thankyou DHARANI.VIJAYA, Happy Learning </h1>!
-<h1> Thankyou DHARANI.VIJAYA, Happy Learning </h1>  
-
- <h1> Thankyou, Happy Learning </h1><h1> Thankyou, Happy Learning </h1>
-
-<h1> Thankyou DHARANI.VIJAYA, Happy Learning </h1>
-
-</form>
+<h1> Thankyou DHARANI.VIJAYA, Happy Learning </h1></form>

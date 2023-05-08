@@ -35,5 +35,4 @@ HelloDHARABI added build triggers:)
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-<h1> Thankyou DHARANI.VIJAYA, Happy Learning </h1></form>
+   <h1> Thankyou DHARANI.VIJAYA, Happy Learning </h1></form>
